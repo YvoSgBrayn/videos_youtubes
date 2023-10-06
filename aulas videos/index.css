@@ -1,16 +1,16 @@
 * {
-    box-sizing: border-box;
-    font-family: "Roboto", sans-serif;
-    font-weight: bold;
-    margin: 0;
-    padding: 0;
-  }
+  box-sizing: border-box;
+  font-family: "Roboto", sans-serif;
+  font-weight: bold;
+  margin: 0;
+  padding: 0;
+}
 
-  body { width: 400 ; height: 400;
-    background-image: url(./img/d3567b682d943952f4ec916ed83bb322.jpg);
-   background-size: cover;
-   background-position: center center;
-  }
-
-
+body {
+  width: 400;
+  height: 400;
+  background-image: url(./img/d3567b682d943952f4ec916ed83bb322.jpg);
+  background-size: cover;
+  background-position: center center;
+}
  
